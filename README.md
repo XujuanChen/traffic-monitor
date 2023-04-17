@@ -2,22 +2,7 @@
 
 Submitted by: **Xujuan Chen**
 
-**The project is on designing intelligent sensors for complex networked environments. 
-
-It involves the development of software tools to map the low level observations of physical
-parameters being sensed onto actionable event reports. 
-
-E.g., Reporting of road traffic congestion from an observation of car movements. 
-
-The large dimensionality of observed data may lead to false positives/negatives in the reporting of events. 
-
-Given limited computational resources in the sensing apparatus 
-
-(say, network bandwidth, CPU cycles, battery energy for drone-mounted cameras), 
-
-the project studies the tradeoffs between the accuracy & timeliness of sensor reports and the resource consumptions. 
-
-Replication of sensor devices and voting on their results is an algorithmic method to be studied to balance the accuracy vs resource tradeoffs.**
+**The project is on designing intelligent sensors for complex networked environments. It involves the development of software tools to map the low level observations of physical parameters being sensed onto actionable event reports. E.g., Reporting of road traffic congestion from an observation of car movements. The large dimensionality of observed data may lead to false positives/negatives in the reporting of events. Given limited computational resources in the sensing apparatus (say, network bandwidth, CPU cycles, battery energy for drone-mounted cameras), the project studies the tradeoffs between the accuracy & timeliness of sensor reports and the resource consumptions. Replication of sensor devices and voting on their results is an algorithmic method to be studied to balance the accuracy vs resource tradeoffs.**
 
 
 ## Features
