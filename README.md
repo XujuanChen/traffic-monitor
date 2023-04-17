@@ -42,7 +42,7 @@ Here's a walkthrough of Vehicle counting and Tracking:
 
 Here's a walkthrough of Congestion Report:
 
-<img src='congestion.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
+<img src='congenstion.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
 
 
 
