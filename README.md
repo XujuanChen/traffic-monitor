@@ -34,9 +34,17 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of Vehicle counting and Tracking:
 
-<img src='traffic.gif' title='Video Walkthrough' width='700px' alt='Video Walkthrough' />
+<img src='carCount.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
+
+
+
+Here's a walkthrough of Congestion Report:
+
+<img src='congestion.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
