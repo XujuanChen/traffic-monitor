@@ -1,4 +1,4 @@
-# I9800 Project - *Traffic Congestion Detector*
+# Individual Project - *Traffic Congestion Detector*
 
 Submitted by: **Xujuan Chen**
 
