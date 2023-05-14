@@ -1,4 +1,4 @@
-# Individual Project - *Traffic Congestion Detector*
+# Project - *Traffic Congestion Detector*
 
 Author: **Xujuan Chen**
 
